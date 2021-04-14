@@ -1,4 +1,4 @@
-# Advanced-Stock-market-API
+# Advanced-Stock-market-API and MEN Template
 Mongodb, Express, NodeJs - MEN stack template with swagger for a quick backend prototype!
 
 --- 
