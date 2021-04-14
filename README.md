@@ -32,4 +32,4 @@ Feel free to use this template!
 
 Star to the repo helps :)
 
-Available on <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> at `hhttps://www.linkedin.com/in/vishwanath-dalawai/`
+Available on <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> at [VishwanathDalawai](https://www.linkedin.com/in/vishwanath-dalawai/)
